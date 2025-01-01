@@ -18,7 +18,7 @@ pkg install git
 
 git clone https://github.com/mu6tx/Report_Facebook
 
-cd Fuck-feca
+cd Report_Facebook
 
 python F.F.K.py
 ```
